@@ -1,4 +1,4 @@
-ame: Build V1
+name: Build V1
 on: push
 jobs:
  deploy:
